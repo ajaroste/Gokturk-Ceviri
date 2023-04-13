@@ -10,7 +10,7 @@ Bu aracı kullanmak için, sadece Türkçe metni girin ve Göktürkçe çevirisi
 Kurulum
 Bu projeyi yerel makinenizde çalıştırmak için şunları yapın:
 
-Bu depoyu kopyalayın: git clone https://github.com/ajarostexd/Gokturk_Ceviri
+Bu depoyu kopyalayın: git clone https://github.com/ajaroste/Gokturk-Ceviri
 Gerekli bağımlılıkları yükleyin: npm install
 Uygulamayı başlatın: npm start
 Katkıda Bulunma
